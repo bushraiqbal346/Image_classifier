@@ -1,0 +1,9 @@
+streamlit==1.28.1
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.35.2
+opencv-python==4.8.1.78
+pillow==10.0.1
+matplotlib==3.7.2
+numpy==1.24.3
+accelerate==0.24.1
